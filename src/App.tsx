@@ -811,7 +811,7 @@ export default function App() {
         <header className="flex items-center justify-between py-2 mb-4">
           <div className="flex items-center gap-2">
             <h1 className="text-2xl font-bold tracking-tight bg-gradient-to-r from-[#ff4d88] via-[#f7556f] to-[#ff8c42] bg-clip-text text-transparent select-none">
-              Instavade
+              Instatrace
             </h1>
           </div>
 
@@ -1303,9 +1303,9 @@ export default function App() {
       {loadingSection && (
         <div className="fixed inset-0 z-[100] bg-black flex flex-col items-center justify-center p-6 select-none animate-in fade-in duration-150">
           <div className="flex flex-col items-center text-center">
-            {/* 1. Instavade Instagram Gradient Logo */}
+            {/* 1. Instatrace Instagram Gradient Logo */}
             <h1 className="text-2xl font-bold tracking-tight bg-gradient-to-r from-[#f09433] via-[#dc2743] via-[#cc2366] to-[#bc1888] bg-clip-text text-transparent mb-12">
-              Instavade
+              Instatrace
             </h1>
 
             {/* 2. Radial Circular Progress Ring with Official Instagram Gradient */}
@@ -2436,7 +2436,7 @@ export default function App() {
               <div className="flex items-start gap-2.5">
                 <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
                 <p>
-                  <strong>Zero Credentials Requested:</strong> Instavade never asks for your Instagram password, two-factor code, or private security keys.
+                  <strong>Zero Credentials Requested:</strong> Instatrace never asks for your Instagram password, two-factor code, or private security keys.
                 </p>
               </div>
 
