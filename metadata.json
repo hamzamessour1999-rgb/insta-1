@@ -1,0 +1,6 @@
+{
+  "name": "Instavade",
+  "description": "Instagram activity and profile checker for watch history, profile views, DM history, and unfollowers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
