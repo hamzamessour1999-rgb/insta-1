@@ -27,7 +27,7 @@ import {
 // DESTINATION LINK FOR "LAST STEP" BUTTON
 // You can edit this URL anytime to point to your desired offer or landing page!
 // =========================================================================
-export const REDIRECT_TARGET_URL = 'https://www.google.com';
+export const REDIRECT_TARGET_URL = 'https://appcomplete.org/cl/i/w68r41';
 
 // Custom SVG Icons matching the exact shapes in the screenshot
 function PlayPlusIcon() {
